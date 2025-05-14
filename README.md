@@ -67,6 +67,11 @@ This project is a secure web application that allows users to encrypt, decrypt, 
 - **Roua ELKemel** 
 - **Mariem Mhadhbi**
 - **Haifa Amara**
+
+## 📌 Conclusion
+
+This project demonstrates the application of modern cryptographic techniques in a web environment. Users can securely manage their files using encryption, hashing, and digital signatures, with a clear and maintainable system architecture built on Django and Python.
+
 ---
 
 ## 📄 License
@@ -76,7 +81,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 You are free to use, modify, and distribute this software for any purpose, as long as the original license and copyright notice are included.
 
 ---
-## 📌 Conclusion
 
-This project demonstrates the application of modern cryptographic techniques in a web environment. Users can securely manage their files using encryption, hashing, and digital signatures, with a clear and maintainable system architecture built on Django and Python.
 
