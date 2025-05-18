@@ -62,9 +62,9 @@ This project is a secure web application that allows users to encrypt, decrypt, 
 
 ## 👨‍💻 Contributors
 
-- **Fatma Ben Rjeb** 
+- **Fatma Ben Rejeb** 
 - **Ons Said**
-- **Roua ELKemel** 
+- **Roua Elkamel** 
 - **Mariem Mhadhbi**
 - **Haifa Amara**
 
